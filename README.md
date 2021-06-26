@@ -1,3 +1,8 @@
+# Covid 19 Live tracker build on react.js and using an api from covid19india.org.
+### &copy; IT Rebels 😂
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
